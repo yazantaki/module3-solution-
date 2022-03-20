@@ -53,7 +53,7 @@ body {
   background: #c4eaff;
 }
 #nav-list li {
-  text-align: center;
+  /* text-align: center; */
   color: black;
 }
 
