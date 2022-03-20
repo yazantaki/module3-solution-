@@ -9,7 +9,7 @@ body {
   font-weight: bold;
 }
 #navbar-header {
-  background-color: #d7db98;
+  background-color: #7890dd;
   border-radius: 0;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -46,11 +46,11 @@ body {
 #nav-list a {
   color: black;
   text-transform: capitalize;
-  background-color: #c6ffc4;
+  background-color: #bfc79d;
 }
 
 #nav-list a:hover {
-  background: #7d95a9;
+  background: #eb95d2;
 }
 #nav-list li {
   text-align: center;
@@ -70,7 +70,7 @@ body {
   margin-bottom: 20px;
 }
 #our-menu .menu {
-  background-color: #7d95a9;
+  background-color: #eb95d2;
 
   padding-top: 20px;
   margin-bottom: 50px;
